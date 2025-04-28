@@ -64,7 +64,7 @@ const Projects = () => {
         "This project builds an interactive monitoring dashboard to track machine learning model performance, data quality, and drift over time. It leverages",
       tech: ["Streamlit", "Docker", "Machine-Learning"],
       github: "https://github.com/vanshchauhan1310/Streamlit_EvidentlyAI",
-      tryIt: "https://appmlmodeldocker-bc2xdfrd9qzua9ct7r44mv.streamlit.app/",
+      tryIt: "https://appevidentlyai-abrlsgpib86gtzxa9auxbk.streamlit.app/",
       image: "/Evidently.png",
     },
 
